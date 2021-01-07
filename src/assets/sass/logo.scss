@@ -4,7 +4,8 @@ aside.logo {
 
 aside.logo a {
     display: block;
-    padding: 22px 15px;
+    padding: 0px 5px;
+    margin-top: -15px;
 }
 
 aside.logo img {
@@ -18,7 +19,7 @@ aside.logo img {
     }
 
     aside.logo img {
-        padding: 0px 15px;
+        padding: 0px 5px;
         width: $largura-barra-lateral;
     }
 }
